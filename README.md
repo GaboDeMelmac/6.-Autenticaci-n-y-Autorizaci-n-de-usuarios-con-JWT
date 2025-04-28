@@ -1,1 +1,12 @@
-# 6.-Autenticaci-n-y-Autorizaci-n-de-usuarios-con-JWT
+
+#al enviar ler siguiente JSON
+{
+  "email": "usuario1@example.com",
+  "rol": "user",
+  "lenguage": "javascript"
+}
+
+#arroja el siguiente token: 
+{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzdWFyaW8xQGV4YW1wbGUuY29tIiwiaWF0IjoxNzQ1ODA3OTIwfQ.4anz9xTpoPuxVhycNAalQqzXJ7Oq8op9tBr-G2vimDA"
+} 
